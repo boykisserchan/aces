@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+.flag:hover {
+  transform: rotate(0.03turn) scale(1.2) translateY(-4px);
+  transition: transform 0.1s;
+}
